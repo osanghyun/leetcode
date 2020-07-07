@@ -1,2 +1,2 @@
 # leetcode
-:octocat:solving algorithm problems
+:octocat:Solving algorithm problems
